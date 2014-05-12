@@ -57,6 +57,7 @@ public class Base64Examples {
 		System.out.println("Retrieved Sanjay1: " + new String(retr));
 		System.out.println("Retrieved Sanjay2: " + new String(retr));
 		System.out.println("Retrieved Sanjay3: " + new String(retr));
+		System.out.println("Retrieved Sanjay5: " + new String(retr));
 		
 	}
 
