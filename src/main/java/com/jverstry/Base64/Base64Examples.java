@@ -54,7 +54,8 @@ public class Base64Examples {
 		System.out.println("Coded     : " + coded);
 		System.out.println("Expected  : " + s);
 		System.out.println("Retrieved : " + new String(retr));
-		System.out.println("Retrieved Sanjay: " + new String(retr));
+		System.out.println("Retrieved Sanjay1: " + new String(retr));
+		System.out.println("Retrieved Sanjay2: " + new String(retr));
 		
 	}
 
